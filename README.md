@@ -1,6 +1,10 @@
+
+
 ## RetroCPU-Benchmark
 
 A simple tool for benchmarking old CPU's under Win9x and MS-DOS.
+
+![Ran under 86Box with Intel Pentium 200 MMX](https://i.gyazo.com/876135051950a4caf62285c3b64e9d89.png)
 
 Once you run the software it will ask how many times you want to run the tests. I usually run it for 3 times but that's all up to you. 
 
