@@ -17,3 +17,5 @@ And as always, use with caution. Old CPU's can just burn and die if you can't co
 https://www.youtube.com/watch?v=yRn8ri9tKf8
 
 And if you kill some hardware, that's on you. I don't take any responsibility. 
+
+_turns out win9x version works on modern hardware. in this case you can compare your current CPU older CPU's._
