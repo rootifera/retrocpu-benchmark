@@ -2,7 +2,7 @@
 
 ## RetroCPU-Benchmark
 
-A simple tool for benchmarking old CPU's under Win9x and MS-DOS.
+A simple tool for benchmarking old CPU's under Win9x and MS-DOS. Please download the current version from the releases section. I already compiled it for MSDOS and Win9x, it is a little fiddy to get the build. 
 
 ![Ran under 86Box with Intel Pentium 200 MMX](https://i.gyazo.com/876135051950a4caf62285c3b64e9d89.png)
 
